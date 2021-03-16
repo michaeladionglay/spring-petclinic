@@ -25,14 +25,14 @@ https://github.com/michaeladionglay/spring-petclinic/blob/master/Dockerfile
 https://github.com/michaeladionglay/spring-petclinic/blob/master/docker-compose.yml
 
 [5 pts] Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
-![Screen Capture #5](images/updated_properties.PNG)
+https://github.com/michaeladionglay/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 
 [5 pts] The output from the docker-compose up command.
-![Screen Capture #6](images/docker_compose_result1.PNG)
-![Screen Capture #7](images/docker_compose_result2.PNG)
+![Screen Capture #5](images/docker_compose_result1.PNG)
+![Screen Capture #6](images/docker_compose_result2.PNG)
 
 [5 pts] Your browser accessing the “Veterinarians” page of the website from your local container.
-![Screen Capture #8](images/both_vet.PNG)
+![Screen Capture #7](images/both_vet.PNG)
 
 
 
